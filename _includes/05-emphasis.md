@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello I am __Kushal Ashok__ iOS Developer from _India_ (Currently working in _China_). Though I started my carrier with `Objective-C`, I have now worked extensively on `Swift` while making use of open source solutions like:
+Hello I am an iOS Developer from _India_ (Currently working in _China_). Though I started my carrier with `Objective-C`, I have now worked extensively on `Swift` while making use of open source solutions like:
 - `Alamofire` (To simplify HTTP networking) 
 - `RealmSwift` + `ObjectMapper` (To store and expose data as objects) 
 - `SnapKit` (To make autolayout easy)
