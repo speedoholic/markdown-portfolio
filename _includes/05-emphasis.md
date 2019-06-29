@@ -39,14 +39,6 @@ Learned SEO and Social Media Marketing.
 Got campus placement and learned DOT NET during internship. Co-organized college fest and motorcycling trips for students. Volunteered for NGOs.
 Won prizes in competitions like robo-wars and line follower.
 
-## References
-
-1. Sumedh Kapoor (Principal Architect) from Infosys Limited - Sumedh_Kapoor01@infosys.com
-
-2. Birsimran Singh (Project Manager) from Infosys Limited - Birsimran_Singh@infosys.com
-
-3. Wenbo Liu (Vice President - Development) from Essex Lake Group LLC - wenbo.liu@essexlg.com
-
 ## Extra-curricular activities 
 
 ###### Podcaster
