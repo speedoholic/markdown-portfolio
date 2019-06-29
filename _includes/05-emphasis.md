@@ -15,15 +15,15 @@ I understand the importance of code review and refactoring. [`SwiftLint`](https:
 #### October 2018 – Present
 Responsible for developing native iOS applications while making use of latest programming language and tools.
 Major responsibilities include writing and refactoring Swift code, reviewing pull requests, managing Github branches, deciding project architecture and design patterns, implementing API integrations while working closely with back-end team, implementing continuous integration, application release and interviewing iOS candidates.
-[Trade X](https://tradexport.com)
+Projects: [Trade X](https://tradexport.com)
 
 #### Senior iOS Developer at [Essex Lake Group](https://essexlg.com), Shanghai, China
 #### August 2017 – October 2018
-Developed native iOS applications for providing data intelligence to senior executives in banks. Created charts using Swift as well Javascript libraries. Worked in a pure AGILE environment while having daily stand-up meetings, iterative development and weekly retrospectives.
+Developed native iOS applications for providing data intelligence to senior executives in banks. Created charts using Swift as well Javascript libraries. Worked in a pure AGILE environment while having daily stand-up meetings, iterative development and weekly retrospectives. Projects: [EyeSight](https://essexlg.com/eyesight.asp)
         
 #### Senior Systems Engineer at [Infosys Limited](http://infosys.com), Chandigarh in India and Shanghai in China
 #### June 2012 – July 2017
-Developed several enterprise apps for iPad, iPod and iPhones. Learned and followed the Software Development LifeCycle. Worked closely with Project Managers, attended client calls and also played the role of a configuration manager while writing reusable code.
+Developed several enterprise apps for iPad, iPod and iPhones. Learned and followed the Software Development LifeCycle. Worked closely with Project Managers, attended client calls and also played the role of a configuration manager while writing reusable code. Projects: Enterprise apps for P&G, Daimler, Huawei, AliMusic, etc.
 
 ## Internships
 
