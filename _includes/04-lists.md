@@ -1,3 +1,2 @@
-Interests:
 - SwiftUI
 - Flutter
