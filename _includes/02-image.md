@@ -1,1 +1,1 @@
-![Kushal's Pic](http://kushalashok.com/img/mini.png)
+![Kushal's Pic](KA_03_2019.JPG)
