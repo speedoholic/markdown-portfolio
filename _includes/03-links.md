@@ -1,1 +1,4 @@
-[Kushal on GitHub](http://github.com/speedoholic)
+- :+1: [Facebook](http://facebook.com/kushalashok)
+- :bird: [Twitter](http://twitter.com/speedoholic)
+- :camera: [Instagram](http://instagram.com/kushalashok)
+- :video_camera: [YouTube](http://youtube.com/kushalashok)
