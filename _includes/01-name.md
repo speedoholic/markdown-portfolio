@@ -1,2 +1,1 @@
-# Kushal Ashok
-### iOS Developer
+# Kushal Ashok - iOS Developer
