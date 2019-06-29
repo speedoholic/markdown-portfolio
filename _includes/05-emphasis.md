@@ -17,22 +17,21 @@ Major responsibilities include writing and refactoring Swift code, reviewing pul
 
 ###### Senior iOS Developer at Essex Lake Group, Shanghai, China
 ###### August 2017 – October 2018
-Developed native iOS applications for providing data intelligence to senior executives in banks. Created charts using Swi� as well Javascript libraries. Worked in a pure AGILE environment while having daily stand-up meetings, iterative development and weekly retrospectives.
+Developed native iOS applications for providing data intelligence to senior executives in banks. Created charts using Swift as well Javascript libraries. Worked in a pure AGILE environment while having daily stand-up meetings, iterative development and weekly retrospectives.
         
 ###### Senior Systems Engineer at Infosys Limited, Chandigarh in India and Shanghai in China
 ###### June 2012 – July 2017
-Developed several enterprise apps for iPad, iPod and iPhones. Learned and followed the So�ware Development LifeCycle. Worked closely with Project Managers, attended client calls and also played the role of a configuration manager while writing reusable code.
+Developed several enterprise apps for iPad, iPod and iPhones. Learned and followed the Software Development LifeCycle. Worked closely with Project Managers, attended client calls and also played the role of a configuration manager while writing reusable code.
 
 ## Internships
 
 ###### Intern at Infosys Limited, Mysore, India
 ###### January 2012 – May 2012
-Attended various trainings ranging from Mobile Application Development to So� Skills.
+Attended various trainings ranging from Mobile Application Development to Soft Skills.
 
 ## Education
 
-###### Bachelor of Technology (Computer Science), Punjabi University,
-###### Patiala, India
+###### Bachelor of Technology (Computer Science), Punjabi University, Patiala, India
 ###### June 2008 – June 2012
 Maintained a good score and got 8.4 GPA
 Developed websites for pocket money.
@@ -42,14 +41,11 @@ Won prizes in competitions like robo-wars and line follower.
 
 ## References
 
-###### Sumedh Kapoor (Principal Architect) from Infosys Limited
-###### Sumedh_Kapoor01@infosys.com
+1. Sumedh Kapoor (Principal Architect) from Infosys Limited - Sumedh_Kapoor01@infosys.com
 
-###### Birsimran Singh (Project Manager) from Infosys Limited
-###### Birsimran_Singh@infosys.com
+2. Birsimran Singh (Project Manager) from Infosys Limited - Birsimran_Singh@infosys.com
 
-###### Wenbo Liu (Vice President - Development) from Essex Lake Group LLC
-###### wenbo.liu@essexlg.com
+3. Wenbo Liu (Vice President - Development) from Essex Lake Group LLC - wenbo.liu@essexlg.com
 
 ## Extra-curricular activities 
 
