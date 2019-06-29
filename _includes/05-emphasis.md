@@ -1,7 +1,7 @@
 ## Introduction
 
-Hello I am an iOS Developer from _India_ (Currently working in _China_). Though I started my carrier with `Objective-C`, I have now worked extensively on `Swift` while making use of open source solutions like:
-- `[Alamofire]`(https://github.com/Alamofire/Alamofire) (To simplify HTTP networking) 
+Hello I am an iOS Developer from _India_ (Currently working in _China_). Though I started my carrier with [`Objective-C`](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), I have now worked extensively on [`Swift`](https://developer.apple.com/swift/) while making use of open source solutions like:
+- [`Alamofire`](https://github.com/Alamofire/Alamofire) (To simplify HTTP networking) 
 - [`RealmSwift`](https://github.com/realm/realm-cocoa) + [`ObjectMapper`](https://github.com/tristanhimmelman/ObjectMapper) (To store and expose data as objects) 
 - [`SnapKit`](https://github.com/SnapKit/SnapKit) (To make autolayout easy)
 - [`Eureka`](https://github.com/xmartlabs/Eureka) (To quickly create forms)
