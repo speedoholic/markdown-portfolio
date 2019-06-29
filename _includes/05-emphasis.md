@@ -1,11 +1,12 @@
 ## Introduction
 
 Hello I am an iOS Developer from _India_ (Currently working in _China_). Though I started my carrier with `Objective-C`, I have now worked extensively on `Swift` while making use of open source solutions like:
-- [`Alamofire`](https://github.com/Alamofire/Alamofire) (To simplify HTTP networking) 
+- `[Alamofire]`(https://github.com/Alamofire/Alamofire) (To simplify HTTP networking) 
 - [`RealmSwift`](https://github.com/realm/realm-cocoa) + [`ObjectMapper`](https://github.com/tristanhimmelman/ObjectMapper) (To store and expose data as objects) 
 - [`SnapKit`](https://github.com/SnapKit/SnapKit) (To make autolayout easy)
 - [`Eureka`](https://github.com/xmartlabs/Eureka) (To quickly create forms)
 - [`Chatto`](https://github.com/badoo/Chatto) + [`Starscream`](https://github.com/daltoniam/Starscream) (To build chat apps)
+
 I understand the importance of code review and refactoring. [`SwiftLint`](https://github.com/realm/SwiftLint) and [`R.swift`](https://github.com/mac-cain13/R.swift) help! I am always thriving to learn the latest technology and have attended Apple's WWDC18 & [WWDC19](https://github.com/Blackjacx/WWDC).
 
 ## Employment History
